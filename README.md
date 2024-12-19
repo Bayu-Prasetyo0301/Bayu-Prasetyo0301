@@ -1,11 +1,9 @@
-# Hi there, I'm Bayu Prasetyo 👋
-*Still Noob, Please Teach Me Suhu :)*
+# Hi there, I'm Bayu Prasetyo 👋  
+*Still Noob, Please Teach Me Suhu :)*  
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Bayu-Prasetyo0301&color=brightgreen&style=flat)](https://github.com/Bayu-Prasetyo0301)
 
-
 📧 **Contact Me**: bayupras0301@gmail.com
-
 
 ### 🛠️ Technologies & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
@@ -33,6 +31,7 @@
 
 <br clear="both">
 
+<!-- Snake animation -->
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -40,4 +39,3 @@
 ### 🤝 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/bayu-prasetyo24/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/bayupras0301/)
-
