@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm a passionate learner and an aspiring developer
 ![App Engine](https://img.shields.io/badge/-App%20Engine-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
 ![Cloud SQL](https://img.shields.io/badge/-Cloud%20SQL-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
 ![IAM](https://img.shields.io/badge/-IAM-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
-![Monitoring](https://img.shields.io/badge/-Logging-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
+![Monitoring](https://img.shields.io/badge/-Monitoring-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
 
 ### 📈 GitHub Stats
 ![Bayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bayu-Prasetyo0301&show_icons=true&theme=radical)
