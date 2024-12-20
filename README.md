@@ -28,7 +28,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bayu-Prasetyo0301&layout=compact&theme=radical)](https://github.com/Bayu-Prasetyo0301)
 
 #### **GitHub Contributions Chart**
-![Contributions Chart](https://contributions-api.cyclic.app/api?username=Bayu-Prasetyo0301)
+![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=Bayu-Prasetyo0301&theme=github)
 
 ### 🤝 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/bayu-prasetyo24/)
