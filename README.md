@@ -32,6 +32,7 @@ Feel free to browse through my repositories, check out my projects, and don't he
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCB2F?logo=firebase&logoColor=white&style=for-the-badge)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
@@ -39,8 +40,7 @@ Feel free to browse through my repositories, check out my projects, and don't he
 ![Cloud Run](https://img.shields.io/badge/-Cloud%20Run-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
 ![Compute Engine](https://img.shields.io/badge/-Compute%20Engine-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
 ![App Engine](https://img.shields.io/badge/-App%20Engine-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
-![Logging](https://img.shields.io/badge/-Logging-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
-![Monitoring](https://img.shields.io/badge/-Monitoring-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
+![Logging And Monitoring](https://img.shields.io/badge/-Logging-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
 
 ### 📈 GitHub Stats
 ![Bayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bayu-Prasetyo0301&show_icons=true&theme=radical)
