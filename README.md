@@ -1,11 +1,12 @@
-# Hello, I'm Bayu Prasetyo 👋  
+# Hello, I'm Bayu Prasetyo 👋
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 Welcome to my GitHub profile! I'm a passionate learner and an aspiring developer. Currently diving deep into web development, cloud computing, and also data enthusiast. I'm excited to connect with like-minded individuals to share knowledge and collaborate on awesome projects! 🚀
 
 *Still a Noob, Please Teach Me Suhu!* 🤓
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Bayu-Prasetyo0301&color=brightgreen&style=flat)](https://github.com/Bayu-Prasetyo0301)
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 📧 **Contact Me**: bayupras0301@gmail.com
 
