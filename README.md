@@ -5,13 +5,13 @@ Welcome to my GitHub profile! I'm a passionate learner and an aspiring developer
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Bayu-Prasetyo0301&color=brightgreen&style=flat)](https://github.com/Bayu-Prasetyo0301)
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 📧 **Contact Me**: bayupras0301@gmail.com
 
 ### 🤝 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/bayu-prasetyo24/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/bayupras0301/)
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ### 🛠️ Technologies & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
