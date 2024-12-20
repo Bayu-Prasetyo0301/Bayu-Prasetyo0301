@@ -1,5 +1,9 @@
-# Hi there, I'm Bayu Prasetyo 👋  
-*Still Noob, Please Teach Me Suhu :)*  
+# Hello, I'm Bayu Prasetyo 👋  
+Welcome to my GitHub profile! I'm a passionate learner and an aspiring developer. Currently diving deep into web development, cloud computing, and also data enthusiast. I'm excited to connect with like-minded individuals to share knowledge and collaborate on awesome projects! 🚀
+
+Feel free to browse through my repositories, check out my projects, and don't hesitate to reach out if you're up for a collaboration or if you want to chat about technology! 😊
+
+*Still a Noob, Please Teach Me Suhu!* 🤓
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Bayu-Prasetyo0301&color=brightgreen&style=flat)](https://github.com/Bayu-Prasetyo0301)
 
@@ -10,8 +14,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/bayupras0301/)
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bayu-Prasetyo0301&label=Profile%20views&color=0e75b6&style=flat" alt="Bayu-Prasetyo0301" /> </p>
 
 ### 🛠️ Technologies & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
@@ -29,6 +31,16 @@
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCB2F?logo=firebase&logoColor=white&style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Cloud Storage](https://img.shields.io/badge/-Cloud%20Storage-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
+![Cloud Run](https://img.shields.io/badge/-Cloud%20Run-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
+![Compute Engine](https://img.shields.io/badge/-Compute%20Engine-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
+![App Engine](https://img.shields.io/badge/-App%20Engine-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
+![Logging](https://img.shields.io/badge/-Logging-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
+![Monitoring](https://img.shields.io/badge/-Monitoring-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
 
 ### 📈 GitHub Stats
 ![Bayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bayu-Prasetyo0301&show_icons=true&theme=radical)
