@@ -1,8 +1,6 @@
 # Hello, I'm Bayu Prasetyo 👋  
 Welcome to my GitHub profile! I'm a passionate learner and an aspiring developer. Currently diving deep into web development, cloud computing, and also data enthusiast. I'm excited to connect with like-minded individuals to share knowledge and collaborate on awesome projects! 🚀
 
-Feel free to browse through my repositories, check out my projects, and don't hesitate to reach out if you're up for a collaboration or if you want to chat about technology! 😊
-
 *Still a Noob, Please Teach Me Suhu!* 🤓
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Bayu-Prasetyo0301&color=brightgreen&style=flat)](https://github.com/Bayu-Prasetyo0301)
@@ -40,7 +38,9 @@ Feel free to browse through my repositories, check out my projects, and don't he
 ![Cloud Run](https://img.shields.io/badge/-Cloud%20Run-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
 ![Compute Engine](https://img.shields.io/badge/-Compute%20Engine-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
 ![App Engine](https://img.shields.io/badge/-App%20Engine-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
-![Logging And Monitoring](https://img.shields.io/badge/-Logging-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
+![Cloud SQL](https://img.shields.io/badge/-Cloud%20SQL-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
+![IAM](https://img.shields.io/badge/-IAM-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
+![Monitoring](https://img.shields.io/badge/-Logging-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
 
 ### 📈 GitHub Stats
 ![Bayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bayu-Prasetyo0301&show_icons=true&theme=radical)
@@ -49,3 +49,5 @@ Feel free to browse through my repositories, check out my projects, and don't he
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Bayu-Prasetyo0301&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+### Feel free to browse through my repositories, check out my projects, and don't hesitate to reach out if you're up for a collaboration or if you want to chat about technology! 😊
