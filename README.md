@@ -5,8 +5,6 @@
 
 📧 **Contact Me**: bayupras0301@gmail.com
 
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="m_aditya_jaiswal" height="30" width="40" />
-
 ### 🛠️ Technologies & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
@@ -28,6 +26,9 @@
 ![Bayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bayu-Prasetyo0301&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bayu-Prasetyo0301&layout=compact&theme=radical)](https://github.com/Bayu-Prasetyo0301)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Bayu-Prasetyo0301&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ### 🤝 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/bayu-prasetyo24/)
