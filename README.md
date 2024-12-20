@@ -5,6 +5,12 @@
 
 📧 **Contact Me**: bayupras0301@gmail.com
 
+### 🤝 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/bayu-prasetyo24/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/bayupras0301/)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bayu-Prasetyo0301&show_icons=true&locale=en&layout=compact" alt="Bayu-Prasetyo0301" /></p>
+
 ### 🛠️ Technologies & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
@@ -29,7 +35,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Bayu-Prasetyo0301&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
-### 🤝 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/bayu-prasetyo24/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/bayupras0301/)
