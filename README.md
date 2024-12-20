@@ -9,7 +9,9 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/bayu-prasetyo24/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/bayupras0301/)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bayu-Prasetyo0301&show_icons=true&locale=en&layout=compact" alt="Bayu-Prasetyo0301" /></p>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bayu-Prasetyo0301&label=Profile%20views&color=0e75b6&style=flat" alt="Bayu-Prasetyo0301" /> </p>
 
 ### 🛠️ Technologies & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
