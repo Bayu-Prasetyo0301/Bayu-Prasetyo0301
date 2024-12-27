@@ -51,4 +51,4 @@ Welcome to my GitHub profile! I'm a passionate learner and an aspiring developer
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Bayu-Prasetyo0301&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-### Feel free to browse through my repositories, check out my projects, and don't hesitate to reach out if you're up for a collaboration or if you want to chat about technology! 😊
+Feel free to browse through my repositories, check out my projects, and don't hesitate to reach out if you're up for a collaboration or if you want to chat about technology! 😊
