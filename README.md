@@ -44,11 +44,19 @@ Welcome to my GitHub profile! I'm a passionate learner and an aspiring developer
 ![Monitoring](https://img.shields.io/badge/-Monitoring-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
 
 ### 📈 GitHub Stats
-![Bayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bayu-Prasetyo0301&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bayu-Prasetyo0301&show_icons=true&theme=radical&cache_seconds=1800" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bayu-Prasetyo0301&layout=compact&theme=radical)](https://github.com/Bayu-Prasetyo0301)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bayu-Prasetyo0301&layout=compact&theme=radical&cache_seconds=1800" />
+</p>
+
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Bayu-Prasetyo0301&limit=5&theme=flat&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Bayu-Prasetyo0301&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
+
 
 Feel free to browse through my repositories, check out my projects, and don't hesitate to reach out if you're up for a collaboration or if you want to chat about technology! 😊
