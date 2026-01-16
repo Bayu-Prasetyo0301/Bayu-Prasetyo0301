@@ -44,6 +44,4 @@ Welcome to my GitHub profile! I'm a passionate learner and an aspiring developer
 ![Monitoring](https://img.shields.io/badge/-Monitoring-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
 
 
-![Statistik GitHub Anda](https://github-readme-stats.vercel.app/api?username=Bayu-Prasetyo0301&show_icons=true&theme=shadow_green)
-
 Feel free to browse through my repositories, check out my projects, and don't hesitate to reach out if you're up for a collaboration or if you want to chat about technology! 😊
