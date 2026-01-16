@@ -43,5 +43,33 @@ Welcome to my GitHub profile! I'm a passionate learner and an aspiring developer
 ![IAM](https://img.shields.io/badge/-IAM-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
 ![Monitoring](https://img.shields.io/badge/-Monitoring-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
 
-
 Feel free to browse through my repositories, check out my projects, and don't hesitate to reach out if you're up for a collaboration or if you want to chat about technology! 😊
+
+<div align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=Bayu-Prasetyo0301&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" 
+    height="150" 
+    alt="Bayu GitHub Streak" 
+  />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Bayu-Prasetyo0301&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" 
+    height="150" 
+    alt="Bayu GitHub Trophies" 
+  />
+</div>
+
+
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/Bayu-Prasetyo0301/Bayu-Prasetyo0301/output/pacman-contribution-graph-dark.svg"
+  />
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/Bayu-Prasetyo0301/Bayu-Prasetyo0301/output/pacman-contribution-graph.svg"
+  />
+  <img 
+    alt="Bayu Pacman Contribution Graph" 
+    src="https://raw.githubusercontent.com/Bayu-Prasetyo0301/Bayu-Prasetyo0301/output/pacman-contribution-graph.svg"
+  />
+</picture>
