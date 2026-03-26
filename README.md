@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm a passionate learner and an aspiring developer. Currently diving deep into web development, cloud computing, and also data enthusiast. I'm excited to connect with like-minded individuals to share knowledge and collaborate on awesome projects! 🚀
 
-*Still a Noob, Please Teach Me Suhu!* 🤓
+*Still a Noob, Please Teach Me Suhu* 🤓
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Bayu-Prasetyo0301&color=brightgreen&style=flat)](https://github.com/Bayu-Prasetyo0301)
 
