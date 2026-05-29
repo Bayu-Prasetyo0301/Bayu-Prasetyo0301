@@ -6,8 +6,6 @@ Welcome to my GitHub profile! I'm a passionate learner and an aspiring developer
 
 *Work Hard, Pray Hard* 🤓
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Bayu-Prasetyo0301&color=brightgreen&style=flat)](https://github.com/Bayu-Prasetyo0301)
-
 📧 **Contact Me**: bayupras0301@gmail.com
 
 ### 🤝 Connect with me:
