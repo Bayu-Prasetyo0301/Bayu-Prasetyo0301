@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-Welcome to my GitHub profile! I'm a passionate learner and an aspiring developer. Currently diving deep into web development, cloud computing, and also data enthusiast. I'm excited to connect with like-minded individuals to share knowledge and collaborate on awesome projects! 🚀
+Welcome to my GitHub profile! I'm a passionate learner and an aspiring developer. Currently diving deep into web development, cloud computing, and also data enthusiast. I'm excited to connect with like-minded individuals to share knowledge and collaborate on awesome projects!
 
 *Work Hard, Pray Hard* 🤓
 
